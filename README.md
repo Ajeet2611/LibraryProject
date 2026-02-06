@@ -9,8 +9,8 @@
 > अपने screenshots / demo GIF इन paths पर रखें और नीचे links अपडेट करें।
 
 ![Login Screen](docs/screenshots/login.png)
-![Admin Dashboard](docs/screenshots/admin_dashboard.png)
-![Issue / Return Flow](docs/screenshots/issue_return.gif)
+![Admin Dashboard]()
+
 
 ---
 
