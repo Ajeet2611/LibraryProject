@@ -8,7 +8,7 @@
 
 > अपने screenshots / demo GIF इन paths पर रखें और नीचे links अपडेट करें।
 
-![Login Screen](docs/screenshots/login.png)
+![Login Screen](login window.png)
 ![Admin Dashboard]()
 
 
