@@ -6,10 +6,10 @@
 
 ## Visuals
 
-> अपने screenshots / demo GIF इन paths पर रखें और नीचे links अपडेट करें।
+
 
 ![Login Screen]([login window.png](https://github.com/Ajeet2611/LibraryProject/blob/main/login%20window.png))
-![Admin Dashboard]()
+![Admin Dashboard](https://github.com/Ajeet2611/LibraryProject/blob/main/Admin%20Dashboard.png)
 
 
 ---
